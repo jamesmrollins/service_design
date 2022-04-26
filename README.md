@@ -1,2 +1,2 @@
 # service_design
-This repository supports a pilot service design capability within OHI.
+This repository supports the piloting of a service design capability within OHI.
